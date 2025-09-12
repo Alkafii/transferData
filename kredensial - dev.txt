@@ -6,3 +6,6 @@ client secret : 99da84d3-1146-4658-bd1f-24dcde1fc73a
 III.1 ACCESS TOKEN 				: https://api-sia.ut.ac.id/api-pembayaran/bjb/snap/v1.0/access-token/b2b
 III.2 INQUIRY VIRTUAL ACCOUNT 	: https://api-sia.ut.ac.id/api-pembayaran/bjb/snap/v1.0/transfer-va/inquiry
 III.3 PAYMENT VIRTUAL ACCOUNT	: https://api-sia.ut.ac.id/api-pembayaran/bjb/snap/v1.0/transfer-va/payment
+
+
+http://145.79.10.165:2305/api/v1/create/callback
